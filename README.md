@@ -1,1 +1,1 @@
-# Face-Detection-using-OpenCV
+# Beginner level Python Projects
